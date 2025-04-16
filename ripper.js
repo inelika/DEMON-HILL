@@ -7,7 +7,7 @@ export class Ripper {
       this.height = 70;
   
       this.frameIndex = 0;
-      this.frameTimer = 0;
+      this.frameTimer = 0; 
       this.frameInterval = 100;
   
       this.state = 'stand';
