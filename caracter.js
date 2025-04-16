@@ -1,7 +1,7 @@
 import { Demon } from './demon.js';
 
 let demon;
-
+ 
 export function initCharacter() {
     const canvas = document.getElementById('gameCanvas');
     const ctx = canvas.getContext('2d');
