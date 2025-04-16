@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "demattact.png",
+	"frame": {"x":4889,"y":4577,"w":10310,"h":584},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":168,"w":10310,"h":584},
+	"sourceSize": {"w":10800,"h":900}
+},
+{
+	"filename": "demdeath.png",
+	"frame": {"x":1,"y":2432,"w":12986,"h":734},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":101,"w":12986,"h":734},
+	"sourceSize": {"w":13500,"h":900}
+},
+{
+	"filename": "demjump.png",
+	"frame": {"x":4889,"y":5163,"w":10307,"h":588},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":238,"y":164,"w":10307,"h":588},
+	"sourceSize": {"w":10800,"h":900}
+},
+{
+	"filename": "demrun.png",
+	"frame": {"x":1,"y":4577,"w":4886,"h":600},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":152,"w":4886,"h":600},
+	"sourceSize": {"w":5400,"h":900}
+},
+{
+	"filename": "demslip.png",
+	"frame": {"x":1,"y":5753,"w":5001,"h":504},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":299,"w":5001,"h":504},
+	"sourceSize": {"w":5400,"h":900}
+},
+{
+	"filename": "ghostdeath.png",
+	"frame": {"x":5004,"y":5753,"w":7505,"h":359},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":18,"w":7505,"h":359},
+	"sourceSize": {"w":7800,"h":420}
+},
+{
+	"filename": "ghostfly.png",
+	"frame": {"x":5004,"y":6114,"w":9057,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":23,"w":9057,"h":304},
+	"sourceSize": {"w":9360,"h":420}
+},
+{
+	"filename": "ripperdeath.png",
+	"frame": {"x":1,"y":1674,"w":13000,"h":756},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":219,"y":91,"w":13000,"h":756},
+	"sourceSize": {"w":13500,"h":900}
+},
+{
+	"filename": "ripperstand.png",
+	"frame": {"x":1,"y":1,"w":15729,"h":575},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":219,"y":177,"w":15729,"h":575},
+	"sourceSize": {"w":16200,"h":900}
+},
+{
+	"filename": "sceletdeath.png",
+	"frame": {"x":1,"y":3901,"w":12982,"h":674},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":237,"y":154,"w":12982,"h":674},
+	"sourceSize": {"w":13500,"h":900}
+},
+{
+	"filename": "sceletstand.png",
+	"frame": {"x":1,"y":578,"w":15678,"h":512},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":237,"y":240,"w":15678,"h":512},
+	"sourceSize": {"w":16200,"h":900}
+},
+{
+	"filename": "stgomdeath.png",
+	"frame": {"x":1,"y":3168,"w":12979,"h":731},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":243,"y":89,"w":12979,"h":731},
+	"sourceSize": {"w":13500,"h":900}
+},
+{
+	"filename": "stgomstand.png",
+	"frame": {"x":1,"y":1092,"w":15673,"h":580},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":243,"y":174,"w":15673,"h":580},
+	"sourceSize": {"w":16200,"h":900}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "image.png",
+	"format": "RGBA8888",
+	"size": {"w":15731,"h":6419},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4b41f2487bbeef9d190dded5deadbed3:b6ac525920426b48edc813ca2c55abaa:d7b59bef533e21a9d3d8602ac9aa04f7$"
+}
+}
