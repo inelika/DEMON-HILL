@@ -4,7 +4,7 @@ export class Ghost {
         this.x = x;
         this.width = 70;
         this.height = 70;
-        this.speed = 1;
+        this.speed = 1; 
         this.isDead = false;
         this.difficulty = difficulty;
         this.state = 'stand';
