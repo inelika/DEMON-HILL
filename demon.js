@@ -9,7 +9,7 @@ export class Demon {
   
       this.speed = 5;
       this.jumpPower = 15;
-      this.velocityY = 0;
+      this.velocityY = 0; 
       this.gravity = 0.5;
   
       this.state = 'run';
