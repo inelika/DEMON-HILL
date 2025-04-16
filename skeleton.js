@@ -13,7 +13,7 @@ export class Skeleton {
 
     this.state = 'stand';
     this.isDead = false;
-    this.frameCount = {
+    this.frameCount = { 
       stand: 18, 
       death: 15  
     };
